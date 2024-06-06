@@ -1,4 +1,4 @@
-⌨️ SwiftUI-Image-MapKit / SwiftUI.
+⌨️ SwiftUI Image MapKit / SwiftUI.
 =========
 
 ---------
